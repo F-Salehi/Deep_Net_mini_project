@@ -1,6 +1,7 @@
 NIFEST
 build
 __pycache__
+.ipynb_checkpoints
 dist
 _build
 docs/man/*.gz
